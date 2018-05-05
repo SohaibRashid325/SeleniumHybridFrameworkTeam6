@@ -1,6 +1,6 @@
 package mainAmazon;
 
-import commonAPI.CommonAPI;
+import base.CommonAPI;
 import org.openqa.selenium.By;
 
 public class LoginToAmazon extends CommonAPI {

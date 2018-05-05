@@ -1,6 +1,6 @@
 package facebookMain;
 
-import commonAPI.CommonAPI;
+import base.CommonAPI;
 import org.openqa.selenium.By;
 
 public class HomeButton extends CommonAPI{

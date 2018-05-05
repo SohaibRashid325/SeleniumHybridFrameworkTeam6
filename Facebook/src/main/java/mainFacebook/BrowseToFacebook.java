@@ -1,6 +1,6 @@
 package mainFacebook;
 
-import commonAPI.CommonAPI;
+import base.CommonAPI;
 
 public class BrowseToFacebook extends CommonAPI{
 

@@ -1,6 +1,6 @@
 package mainNetflix;
 
-import commonAPI.CommonAPI;
+import base.CommonAPI;
 
 public class BrowseToNetflix extends CommonAPI {
 

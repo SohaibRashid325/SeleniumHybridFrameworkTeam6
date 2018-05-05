@@ -1,7 +1,6 @@
 package DataDriven;
 
-import commonAPI.CommonAPI;
-import mainBestbuy.BrowseToBestbuy;
+import base.CommonAPI;
 import mainBestbuy.HomePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

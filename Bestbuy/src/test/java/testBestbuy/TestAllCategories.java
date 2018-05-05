@@ -1,6 +1,6 @@
 package testBestbuy;
 
-import commonAPI.CommonAPI;
+import base.CommonAPI;
 import mainBestbuy.AllCategories;
 import mainBestbuy.BrowseToBestbuy;
 import org.testng.annotations.Test;

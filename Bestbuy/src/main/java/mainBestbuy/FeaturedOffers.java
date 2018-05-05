@@ -1,6 +1,6 @@
 package mainBestbuy;
 
-import commonAPI.CommonAPI;
+import base.CommonAPI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;

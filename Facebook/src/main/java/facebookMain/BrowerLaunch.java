@@ -1,6 +1,6 @@
 package facebookMain;
 
-import commonAPI.CommonAPIChrome;
+import base.CommonAPIChrome;
 
 public class BrowerLaunch extends CommonAPIChrome{
 

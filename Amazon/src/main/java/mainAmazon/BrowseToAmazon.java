@@ -1,7 +1,6 @@
 package mainAmazon;
 
-import commonAPI.CommonAPI;
-import org.testng.annotations.Test;
+import base.CommonAPI;
 
 public class BrowseToAmazon extends CommonAPI {
     String amazonURL = "https://www.amazon.com";

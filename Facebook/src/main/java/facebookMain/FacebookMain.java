@@ -1,6 +1,6 @@
 package facebookMain;
 
-import commonAPI.CommonAPIChrome;
+import base.CommonAPIChrome;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;

@@ -1,6 +1,6 @@
 package facebookMain;
 
-import commonAPI.CommonAPIChrome;
+import base.CommonAPIChrome;
 import org.openqa.selenium.By;
 
 public class Friends extends CommonAPIChrome {
